@@ -1,5 +1,5 @@
-import './style.css'
+import "./style.css";
 
 export function Loader() {
-  return <div className="loader" />;
+    return <div className="loader" />;
 }
